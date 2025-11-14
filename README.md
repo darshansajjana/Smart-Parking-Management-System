@@ -56,7 +56,7 @@ Manual parking systems face issues like:
 - Fee calculator  
 - Payment history  
 
-### 🔹 MySQL Logic Automation  
+### MySQL Logic Automation  
 - **Stored Procedures:**  
   - Create_Ticket  
   - Close_Ticket  
@@ -70,22 +70,22 @@ Manual parking systems face issues like:
 
 ---
 
-# Smart Parking System - Requirements
+## Smart Parking System - Requirements
 
-# PHP Version
+### PHP Version
 php >= 7.4
 
-# Web Server
+### Web Server
 Apache HTTP Server (recommended: via XAMPP)
 
-# Database
+### Database
 MySQL Server 8.x
 
-# Development Tools
+### Development Tools
 MySQL Workbench
 VS Code
 
-# Optional Tools
+### Optional Tools
 Git
 Draw.io
 
